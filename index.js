@@ -4,7 +4,7 @@ const Aluno01 = 'Jonas'
 const Aluno02 = 'Maria'
 
 const nota_aluno01 = 9;
-const nota_aluno02 = 7;
+const nota_aluno02 = 9;
 
 console.log('Olá ' + Aluno01 + ' Sua nota é ' + nota_aluno01 )
 
